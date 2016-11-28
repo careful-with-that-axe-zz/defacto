@@ -6,12 +6,12 @@ require 'defacto/version'
 Gem::Specification.new do |spec|
   spec.name          = "defacto"
   spec.version       = Defacto::VERSION
-  spec.authors       = ["Jane Sebastian"]
+  spec.authors       = ["Jane S. Sebastian"]
   spec.email         = ["jane@betatetra.com"]
 
-  spec.summary       = %q{TODO: Write a short summary, because Rubygems requires one.}
-  spec.description   = %q{TODO: Write a longer description or delete this line.}
-  spec.homepage      = "TODO: Put your gem's website or public repo URL here."
+  spec.summary       = %q{In practice but not necessarily ordained by law}
+  spec.description   = %q{In practice but not necessarily ordained by law}
+  spec.homepage      = "https://github.com/careful-with-that-axe/defacto"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
